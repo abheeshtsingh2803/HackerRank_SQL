@@ -1,4 +1,4 @@
-# Day #03 - Select by ID
+# Day #04 - Select by ID
 ## Problem
 Query all columns for a city in CITY with the ID 1661.
 
