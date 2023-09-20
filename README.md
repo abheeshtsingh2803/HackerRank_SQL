@@ -19,3 +19,4 @@ ___
 | 6 | [**Day 6 : Japanese Cities' Names**](Solution/Japanese_cities'_names.md) | Easy | 10 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/japanese-cities-name/copy-from/340888448?isFullScreen=true) |
 | 7 | [**Day 7 : Weather Observation Station 1**](Solution/Weather_Observation_Station_1.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) |
 | 8 | [**Day 8 : Weather Observation Station 2**](Solution/Weather_Observation_Station_2.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-2/copy-from/345436342?isFullScreen=true) |
+| 9 | [**Day 9 : Weather Observation Station 3**](Solution/Weather_Observation_Station_3.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/copy-from/345436342?isFullScreen=true) |
