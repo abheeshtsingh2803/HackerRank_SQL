@@ -21,3 +21,4 @@ ___
 | 8 | [**Day 8 : Weather Observation Station 2**](Solution/Weather_Observation_Station_2.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-2/copy-from/345436342?isFullScreen=true) |
 | 9 | [**Day 9 : Weather Observation Station 3**](Solution/Weather_Observation_Station_3.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/copy-from/345436342?isFullScreen=true) |
 | 10 | [**Day 10 : Weather Observation Station 4**](Solution/Weather_Observation_Station_4.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-4/copy-from/345436342?isFullScreen=true) |
+| 11 | [**Day 11 : Weather Observation Station 5**](Solution/Weather_Observation_Station_5.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) |
