@@ -26,3 +26,4 @@ ___
 | 13 | [**Day 13 : Weather Observation Station 7**](Solution/Weather_Observation_Station_7.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) |
 | 14 | [**Day 14 : Weather Observation Station 8**](Solution/Weather_Observation_Station_8.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) |
 | 15 | [**Day 15 : Weather Observation Station 9**](Solution/Weather_Observation_Station_9.md) | Easy | 10 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) |
+| 16 | [**Day 16 : Weather Observation Station 10**](Solution/Weather_Observation_Station_10.md) | Easy | 10 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |
