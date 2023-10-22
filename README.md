@@ -30,3 +30,4 @@ ___
 | 17 | [**Day 17 : Weather Observation Station 11**](Solution/Weather_Observation_Station_11.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |
 | 18 | [**Day 18 : Weather Observation Station 12**](Solution/Weather_Observation_Station_12.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) |
 | 19 | [**Day 19 : Higher Than 75 Marks**](Solution/Higher_Than_75_Marks.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |
+| 20 | [**Day 20 : Employee Names**](Solution/Employee_Names.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |
