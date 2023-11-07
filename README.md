@@ -32,4 +32,4 @@ ___
 | 19 | [**Day 19 : Higher Than 75 Marks**](Solution/Higher_Than_75_Marks.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |
 | 20 | [**Day 20 : Employee Names**](Solution/Employee_Names.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |
 | 21 | [**Day 21 : Employee Salaries**](Solution/Employee_Salaries.md) | Easy | 15 | 1 | `Selection` | [link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |
-
+| 22 | [**Day 22 : Employee Salaries**](Solution/Type_of_Triangle.md) | Easy | 15 | 1 | `Selection` `conditional statement` | [link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |
